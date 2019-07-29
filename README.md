@@ -1,12 +1,12 @@
 # Content Python Full Guide Pluralsite ![Python Full Guide Pluralsite](https://img.shields.io/badge/-Python%20Full%20Guide%20Pluralsite-primary.svg)
 
-> [Python Programming A-z](https://app.pluralsight.com/paths/skills/python)
-> [Python Best Practise Coding Quality](https://app.pluralsight.com/library/courses/python-best-practices-code-quality)
-> [Building Python Design Patterns](https://app.pluralsight.com/library/courses/python-design-patterns-building-more)
-> [Python Desktop Application Development](https://app.pluralsight.com/library/courses/python-desktop-application-development/table-of-contents)
-> [Python Quick Start for Linux System Administrators](https://app.pluralsight.com/library/courses/python-linux-system-administrators)
-> [Automating Networks with Python](https://app.pluralsight.com/library/courses/automating-networks-python/table-of-contents)
-> [Building Machine Learning Models in Python with scikit-learn](https://app.pluralsight.com/library/courses/python-scikit-learn-building-machine-learning-models/table-of-contents)
+> [Python Programming A-z](https://app.pluralsight.com/paths/skills/python) <br>
+> [Python Best Practise Coding Quality](https://app.pluralsight.com/library/courses/python-best-practices-code-quality) <br>
+> [Building Python Design Patterns](https://app.pluralsight.com/library/courses/python-design-patterns-building-more) <br>
+> [Python Desktop Application Development](https://app.pluralsight.com/library/courses/python-desktop-application-development/table-of-contents) <br>
+> [Python Quick Start for Linux System Administrators](https://app.pluralsight.com/library/courses/python-linux-system-administrators) <br>
+> [Automating Networks with Python](https://app.pluralsight.com/library/courses/automating-networks-python/table-of-contents) <br>
+> [Building Machine Learning Models in Python with scikit-learn](https://app.pluralsight.com/library/courses/python-scikit-learn-building-machine-learning-models/table-of-contents) <br>
 
 ## Python Full Path ![Python Full Path](https://img.shields.io/badge/-Python%20Full%20Path-orange.svg)
 
