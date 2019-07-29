@@ -1,3 +1,13 @@
+# Content Python Full Guide Pluralsite ![Python Full Guide Pluralsite](https://img.shields.io/badge/-Python%20Full%20Guide%20Pluralsite-primary.svg)
+
+> [Python Programming A-z](https://app.pluralsight.com/paths/skills/python)
+> [Python Best Practise Coding Quality](https://app.pluralsight.com/library/courses/python-best-practices-code-quality)
+> [Building Python Design Patterns](https://app.pluralsight.com/library/courses/python-design-patterns-building-more)
+> [Python Desktop Application Development](https://app.pluralsight.com/library/courses/python-desktop-application-development/table-of-contents)
+> [Python Quick Start for Linux System Administrators](https://app.pluralsight.com/library/courses/python-linux-system-administrators)
+> [Automating Networks with Python](https://app.pluralsight.com/library/courses/automating-networks-python/table-of-contents)
+> [Building Machine Learning Models in Python with scikit-learn](https://app.pluralsight.com/library/courses/python-scikit-learn-building-machine-learning-models/table-of-contents)
+
 ## Python Full Path ![Python Full Path](https://img.shields.io/badge/-Python%20Full%20Path-orange.svg)
 
 >Python is an interpreted object-oriented programming language. It is open source, so the interpreter and source are freely available and distributable in binary form. Python has many built-in high-level data structures and utilizes dynamic typing and binding, making it an excellent choice for both scripting and application development. Programming in Python can be extremely quick and productive owing to the lack of a compilation step as well as the built-in debugger (also written in Python). This fast edit-test-debug cycle is one of the main draws for programmers who wish to develop in Python, while others are drawn to the active and passionate Python community. This path will take you from the basics of the Python language all the way up to working with web frameworks and programming a Raspberry Pi.
