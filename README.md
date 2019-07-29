@@ -53,4 +53,4 @@ Python best practices <br>
 ##### 2- The Python Developer's Toolkit ( 3h 2m )
 ##### 3- Advanced Python ( 3h 53m )
 
-## 2- Building Machine Learning Models in Python with scikit-learn ![Building Machine Learning Models in Python with scikit-learn](https://img.shields.io/badge/-Building%20Machine%20Learning%20Models%20in%20Python%20with%20scikit-learn-orange.svg)
+## 2- Building Machine Learning Models in Python with scikit-learn ![Building Machine Learning Models in Python with scikit-learn](https://img.shields.io/badge/-Building%20Machine%20Learning%20Models%20in%20Python%20with%20scikit%20learn-orange.svg)
