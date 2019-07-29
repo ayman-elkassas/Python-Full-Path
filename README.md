@@ -1,4 +1,4 @@
-# Content Python Full Guide Pluralsite ![Python Full Guide Pluralsite](https://img.shields.io/badge/-Python%20Full%20Guide%20Pluralsite-primary.svg)
+# Content Python Full Guide Pluralsite ![Python Full Guide Pluralsite](https://img.shields.io/badge/-Python%20Full%20Guide%20Pluralsite-violet.svg)
 
 > [Python Programming A-z](https://app.pluralsight.com/paths/skills/python) <br>
 > [Python Best Practise Coding Quality](https://app.pluralsight.com/library/courses/python-best-practices-code-quality) <br>
