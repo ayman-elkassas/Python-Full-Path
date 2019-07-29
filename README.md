@@ -19,5 +19,26 @@ Python best practices <br>
 ### Content Course free on https://app.pluralsight.com/paths/skills/python but should be have your free liceence microsoft (3 month)
 > you can follow this video to get licence https://www.youtube.com/watch?v=1AM6Tpbf0dI
 
-## Python From A-z ![Python Full Path](https://img.shields.io/badge/-Python-blue.svg)
+## Python From A-z ![Python Full Path](https://img.shields.io/badge/-Python-blue.svg) ( 30 hours )
 
+### Beginner ( 9 hours ) <br>
+> Are you a programming beginner? Maybe you've just started, or maybe you've taken a couple of entry-level programming classes and want to learn more. The beginner courses here will show you the basics of object-oriented programming (OOP) while teaching you the simple and functional Python programming language. When you've completed this section, you'll be ready to move on to improving your code quality.
+#### Measure your skill above then remeasure to track growth after completing each level of the path Measure Improvement
+
+#### 1- Python: The Big Picture ( 1h 5m )
+#### 2- Python: Getting Started Beginner ( 2h 59m )
+#### 3- Python Fundamentals ( 5h 11m )
+
+### Intermediate ( 12 hours ) <br>
+> The intermediate courses you see here will teach you to improve your code. You'll dive deeper into unit testing and debugging, as well as learn some of the more advanced features of the Python language.
+
+#### 1- Python: Beyond the Basics ( 7h 22m )
+#### 2- The Python Developer's Toolkit ( 2h 19m )
+#### 3- Unit Testing with Python (2h 58m )
+
+### Advanced ( 6 hours ) <br>
+> Our advanced Python track will show you how you can apply your newfound skill. You'll learn full-stack web development, as well as some techniques that will help you implement advanced frameworks.
+
+#### 1- Full Stack Web Development with Python (WEB2PY) 
+#### 2- The Python Developer's Toolkit ( 3h 2m )
+#### 3- Advanced Python ( 3h 53m )
