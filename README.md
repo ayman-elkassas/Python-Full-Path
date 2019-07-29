@@ -16,3 +16,5 @@ Python modules <br>
 Collections <br>
 Python best practices <br>
 
+### Content Course free on https://app.pluralsight.com/paths/skills/python
+
