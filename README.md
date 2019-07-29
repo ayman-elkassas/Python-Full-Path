@@ -16,5 +16,8 @@ Python modules <br>
 Collections <br>
 Python best practices <br>
 
-### Content Course free on https://app.pluralsight.com/paths/skills/python
+### Content Course free on https://app.pluralsight.com/paths/skills/python but should be have your free liceence microsoft (3 month)
+> you can follow this video to get licence https://www.youtube.com/watch?v=1AM6Tpbf0dI
+
+## Python From A-z ![Python Full Path](https://img.shields.io/badge/-Python-blue.svg)
 
