@@ -6,13 +6,13 @@
 Basic familiarity with the fundamental concepts of programming HTML
 ### What you will learn ?
 
-> Syntax
-Python objects
-Scalar types
-Operators
-String I/O
-Functions
-Python modules
-Collections
-Python best practices
+> Syntax <br>
+Python objects <br>
+Scalar types <br>
+Operators <br>
+String I/O <br>
+Functions <br>
+Python modules <br>
+Collections <br>
+Python best practices <br>
 
