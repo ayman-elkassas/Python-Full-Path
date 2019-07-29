@@ -4,9 +4,9 @@
 
 >Prerequisites
 Basic familiarity with the fundamental concepts of programming HTML
+### What you will learn ?
 
-What you will learn
-Syntax
+> Syntax
 Python objects
 Scalar types
 Operators
